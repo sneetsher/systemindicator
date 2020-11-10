@@ -5,3 +5,9 @@ ObjectPath=/com/canonical/indicator/loginhelper
 [desktop_greeter]
 ObjectPath=/com/canonical/indicator/loginhelper/greeter
 
+
+[desktop]
+ObjectPath=/com/canonical/indicator/loginhelper/greeter
+
+[desktop_lockscreen]
+ObjectPath=/com/canonical/indicator/loginhelper/greeter
